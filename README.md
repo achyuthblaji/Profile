@@ -10,5 +10,5 @@ I am Achyuth balaji, currently studying at University of Windsor. Find out more 
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Tensor-Flow](https://img.shields.io/badge/-TF-00599C?style=flat-square&logo=c)
+![Tensor-Flow](https://img.shields.io/badge/-TF-00599?style=flat-square&logo=c)
 
